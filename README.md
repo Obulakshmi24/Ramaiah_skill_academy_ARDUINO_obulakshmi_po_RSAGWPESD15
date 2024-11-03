@@ -4,7 +4,7 @@
 
 ### 2. SMART DISTANCE COUNTER
 **QUESTION** Connect both an ultrasonic sensor and a touch sensor to the Arduino. Display a counter on the 7-segment display that increments every time an object (such as a hand) crosses a specified distance threshold (detected by the ultrasonic sensor). Use the touch sensor to reset the counter.
-**LINK** 
+**LINK** https://www.tinkercad.com/things/aWiTkTCyW15-exp2sdc?sharecode=Yxb4RZVotzEDeZksNPuQ80N6FgWZ3hpJ-b-rxoVrKAY
 
 ### 3. TOUCH-ACTIVATED RANGE FINDER
 **QUESTION** Program the Arduino to take a distance reading from the ultrasonic sensor only when the touch sensor is activated. Display the measured distance on the 7-segment display and hold the value for 5 seconds before clearing.  
